@@ -12424,7 +12424,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24300001, guid: 3f6a18a6c43f5234c90411f096413ff1,
     type: 2}
-  m_audioClip: {fileID: 8300000, guid: 726f7848ef2e05441bb617c5dc40d7cb, type: 3}
+  m_audioClip: {fileID: 8300000, guid: fb8b036d6609c72418c96c1f7cd00ae0, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0
   m_Pitch: 1
@@ -13647,7 +13647,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 195296}
-  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071067}
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.70710677}
   m_LocalPosition: {x: 385.07, y: 1.99, z: 111.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -13658,7 +13658,7 @@ Transform:
   - {fileID: 461360}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 90.00001, z: 0}
 --- !u!54 &5439408
 Rigidbody:
   m_ObjectHideFlags: 0

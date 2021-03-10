@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/WreckRaceGarage.unity
     guid: 16bdfa019ed9dcc4caf7fe3c1f7c4a65
+  - enabled: 1
+    path: Assets/RockFREE/rockFree.unity
+    guid: 04e6fa2c7d4ed2a40810185566a6b85b
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 473911eb2538c9941a9b528264a1d53d,
       type: 2}
